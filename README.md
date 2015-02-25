@@ -54,10 +54,10 @@ After completing this assignment, you be able to effectively use
 
 ## Normal Mode
 Hackathon Format:
-	* 1:00pm - 1:20pm Introduction and requirements
-	* 1:20pm - 1:50pm Pitch ideas
-	* 1:50pm - 2:30pm Pick ideas and form teams
-	* 2:30pm - 3:30pm Walk through project setup
+* 1:00pm - 1:20pm Introduction and requirements
+* 1:20pm - 1:50pm Pitch ideas
+* 1:50pm - 2:30pm Pick ideas and form teams
+* 2:30pm - 3:30pm Walk through project setup
             
 
 ## Notes
