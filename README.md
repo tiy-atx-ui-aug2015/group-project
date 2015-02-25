@@ -28,8 +28,10 @@ After completing this assignment, you be able to effectively use
 ### Deliverables
 
 * A repo containing at least:
-  * Wireframes of your project
-  * A live working web application (online!)
+	* README that includes the following...
+	* Link to user stories in Trello
+	* Link to wireframes of your project
+	* Link to a live working web application on heroku (online!)
 
 ### Requirements
 
@@ -51,9 +53,12 @@ After completing this assignment, you be able to effectively use
 
 
 ## Normal Mode
-Normal Mode description
+Hackathon Format:
+	* 1:00pm - 1:20pm Introduction and requirements
+	* 1:20pm - 1:50pm Pitch ideas
+	* 1:50pm - 2:30pm Pick ideas and form teams
+	* 2:30pm - 3:30pm Walk through project setup
             
-
 
 ## Notes
 
