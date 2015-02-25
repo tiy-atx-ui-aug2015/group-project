@@ -40,10 +40,11 @@ After completing this assignment, you be able to effectively use
 
 * Everyone
 	1. ** Everyone must a contributor on the repo **
-	2. App must have login
-	3. Multi device friendly
-	4. Wireframing/planning strategy and data models
-	5. ** Your app must be submitted by 1am Monday morning ** so that you are ready to present by 9am Monday.
+	2. Use branching and merging to accomplish requirement i.
+	3. App must have login
+	4. Multi device friendly
+	5. Wireframing/planning strategy and data models
+	6. ** Your app must be submitted by 1am Monday morning ** so that you are ready to present by 9am Monday.
 * Design
 	1. Fonts from Typekit
 	2. Responsive Grid System / Responsive site (this includes remembering the meta viewport and media queries, not just %)
