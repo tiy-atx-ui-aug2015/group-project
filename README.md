@@ -19,7 +19,10 @@ After completing this assignment, you should…
 
 After completing this assignment, you be able to effectively use
 
-* Use some tool or technique
+* Angular or Backbone
+* Typekit
+* Sass
+* Devise
 
 
 
@@ -27,18 +30,25 @@ After completing this assignment, you be able to effectively use
 
 ### Deliverables
 
-* A repo containing at least:
-	* README that includes the following...
-	* Link to user stories in Trello
-	* Link to wireframes of your project
-	* Link to a live working web application on heroku (online!)
+* A shared repo containing at least:
+	* README that links to all of the other deliverables
+* User stories in Trello
+* Wireframes of your project
+* A live working web application on heroku (online!)
 
 ### Requirements
 
+* Everyone
+	1. ** Everyone must a contributor on the repo **
+	2. App must have login
+	3. Multi device friendly
+	4. Wireframing/planning strategy and data models
+	5. ** Your app must be submitted by 1am Monday morning ** so that you are ready to present by 9am Monday.
 * Design
 	1. Fonts from Typekit
 	2. Responsive Grid System / Responsive site (this includes remembering the meta viewport and media queries, not just %)
 	3. Ability to defend design decisions
+	4. Must use Sass
 * Front-end
 	1. Use Angular or Backbone
 	2. Use of a router (backbone or angular)
@@ -58,12 +68,13 @@ Hackathon Format:
 * 1:20pm - 1:50pm Pitch ideas
 * 1:50pm - 2:30pm Pick ideas and form teams
 * 2:30pm - 3:30pm Walk through project setup
+* 3:30pm - 4:00pm Photo shoot!
             
 
 ## Notes
 
-Notes go here...
+On Monday morning you will give a presentation of your app.
 
 ## Additional Resources
 
-* Read []()
+* Here's an [example Repo](https://github.com/jah2488/angularize) that demonstrates how the front-end should connect with the back-end.
