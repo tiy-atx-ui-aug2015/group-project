@@ -28,12 +28,26 @@ After completing this assignment, you be able to effectively use
 ### Deliverables
 
 * A repo containing at least:
-  * `main.js`
-  * `index.html`
+  * Wireframes of your project
+  * A live working web application (online!)
 
 ### Requirements
 
-* No JSHint warnings or errors
+* Design
+	1. Fonts from Typekit
+	2. Responsive Grid System / Responsive site (this includes remembering the meta viewport and media queries, not just %)
+	3. Ability to defend design decisions
+* Front-end
+	1. Use Angular or Backbone
+	2. Use of a router (backbone or angular)
+	3. HTTP requests must correctly display any errors that get returned from the server.
+* Rails
+	1. App must have login with devise
+	2. App must contain multiple models with relations between them
+	3. Validations must be set in the models and the database
+	4. Controllers must return appropriate response codes and a consistent json payload
+	5. App must contain tests and have 95%+ test coverage overall and 100% test coverage for models.
+	6. UMLs need to be drawn up of the final data structure of the app
 
 
 ## Normal Mode
