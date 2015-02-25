@@ -1,0 +1,31 @@
+{
+    "name": "february-6th-hackathon",
+    "version": "0.0.1",
+    "title": "February 6th Hackathon",
+    "description": "February 6th Hackathon",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "JavaScript",
+        "hackathon",
+        "rails",
+        "ruby",
+        "web design"
+    ],
+    "supplementalFiles": [
+        ".git/HEAD",
+        ".git/config",
+        ".git/description",
+        ".git/info/exclude",
+        ".git/hooks/applypatch-msg.sample",
+        ".git/hooks/commit-msg.sample",
+        ".git/hooks/post-update.sample",
+        ".git/hooks/pre-applypatch.sample",
+        ".git/hooks/pre-commit.sample",
+        ".git/hooks/pre-push.sample",
+        ".git/hooks/pre-rebase.sample",
+        ".git/hooks/prepare-commit-msg.sample",
+        ".git/hooks/update.sample"
+    ]
+}
