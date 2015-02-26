@@ -50,6 +50,7 @@ After completing this assignment, you be able to effectively use
 	2. Responsive Grid System / Responsive site (this includes remembering the meta viewport and media queries, not just %)
 	3. Ability to defend design decisions
 	4. Must use Sass
+	5. Style Tiles
 * Front-end
 	1. Use Angular or Backbone
 	2. Use of a router (backbone or angular)
