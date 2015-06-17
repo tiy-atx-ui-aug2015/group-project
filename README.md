@@ -19,11 +19,9 @@ After completing this assignment, you should…
 
 After completing this assignment, you be able to effectively use
 
-* Angular or Backbone
+* React and Backbone
 * Typekit
 * Sass
-* Devise
-
 
 
 ## Details
@@ -39,10 +37,10 @@ After completing this assignment, you be able to effectively use
 ### Requirements
 
 * Everyone
-	1. ** Everyone must a contributor on the repo **
+	1. ** Everyone must a contributor on the repo with at least 5 commits **
 	2. Use branching and merging to accomplish requirement i.
 	3. App must have login
-	4. Multi device friendly
+	4. Multi device friendly (responsive)
 	5. Wireframing/planning strategy and data models
 	6. ** Your app must be submitted by 1am Monday morning ** so that you are ready to present by 9am Monday.
 * Design
@@ -52,31 +50,28 @@ After completing this assignment, you be able to effectively use
 	4. Must use Sass
 	5. Style Tiles
 * Front-end
-	1. Use Angular or Backbone
-	2. Use of a router (backbone or angular)
+	1. Use React and Backbone
+	2. Use of the backbone router
 	3. HTTP requests must correctly display any errors that get returned from the server.
 * Rails
-	1. App must have login with devise
+	1. App must have login
 	2. App must contain multiple models with relations between them
 	3. Validations must be set in the models and the database
 	4. Controllers must return appropriate response codes and a consistent json payload
-	5. App must contain tests and have 95%+ test coverage overall and 100% test coverage for models.
-	6. UMLs need to be drawn up of the final data structure of the app
+	5. UMLs need to be drawn up of the final data structure of the app
+	6. Your app on heroku must have a name (not the default)
 
 
 ## Normal Mode
+To begin, one member of your team should fork [this repo](https://github.com/jah2488/backreact) and [invite all of your team members as collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/) so that they can push to the repo.
+
 Hackathon Format:
 * 1:00pm - 1:20pm Introduction and requirements
 * 1:20pm - 1:50pm Pitch ideas
 * 1:50pm - 2:30pm Pick ideas and form teams
-* 2:30pm - 3:30pm Walk through project setup
-* 3:30pm - 4:00pm Photo shoot!
+* 2:30pm - 3:30pm Walk through project setup (design + FEE)
             
 
 ## Notes
 
 On Monday morning you will give a presentation of your app.
-
-## Additional Resources
-
-* Here's an [example Repo](https://github.com/jah2488/angularize) that demonstrates how the front-end should connect with the back-end.
