@@ -1,4 +1,4 @@
-# February 26th Hackathon
+# June 18th Hackathon
 
 ## Description
 No developer or designer works in a vacuum. We all need to collaborate with teammates in our day to day work. Working effectively in a team is not as easy as it sounds, but like everything else, it just takes some practice. Over the next four days you will form groups and build out a web application of your choice. This is an excellent opportunity to build out a great portfolio piece, become more comfortable with git branching and merging, and finally - pitch your ideas!
