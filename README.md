@@ -37,7 +37,7 @@ After completing this assignment, you be able to effectively use
 
 * Everyone
 	1. ** Everyone must a contributor on the repo with at least 5 commits **
-	1. Use forking and pull requests to accomplish requirement i.
+	1. Use branching and pull requests to accomplish requirement i.
 	1. Multi device friendly (responsive)
 	1. A polished presentation
 	1. ** Your app must be submitted by 1am Monday morning ** so that you are ready to present by 9am Monday.
