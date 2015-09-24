@@ -62,7 +62,9 @@ After completing this assignment, you be able to effectively use
 
 
 ## Normal Mode
-To begin, one member of your team should fork [this repo](https://github.com/jah2488/backreact) and [invite all of your team members as collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/) so that they can push to the repo.
+To begin, one frontend member of your team should create a new repo using the `tiyfe` command and invite your other team members as and [invite all of your team members as collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/) so that they can push to the repo. The other frontend student and the design student should pull (don't fork) the newly created repository onto their computer and `cd` into the directory where the repo lives. Then run the `npm install` command (this could take a while to finish so I recommend that you do it as early as possible).
+
+The backend student(s) will create an entitely separate repository.
 
 Hackathon Format:
 * 09:00 - 09:35 - Morning (individual class lecture)
@@ -77,3 +79,60 @@ Hackathon Format:
 ## Notes
 
 On Monday morning you will give a presentation of your app.
+
+## Teams
+
+```
+* FE: Troy
+* FE: Gladys
+* BE: Ryan P
+* BE: Michelle
+```
+
+```
+* FE: Leslie
+* FE: Josiah
+* BE: Mike
+```
+
+```
+* FE: Gabriel
+* FE: Michael D
+* BE: Chris
+```
+<!--* D: Emily?-->
+
+```
+* FE: Noel
+* FE: Michael A
+* BE: Travis
+* D: Jay
+```
+
+```
+* FE: Jacob
+* FE: Jimi
+* BE: Anisha
+* D: Alex
+```
+
+```
+* FE: Whitney
+* FE: Bob
+* BE: Adam
+* D: Cory
+```
+
+```
+* FE: Mory
+* FE: Mike
+* BE: Ryan Y
+* D: Liz
+```
+
+```
+* FE: Aaron
+* FE: Joseph
+* BE: Erik
+* D: Ryan
+```
