@@ -44,7 +44,7 @@ After completing this assignment, you be able to effectively use
 * Design
 	1. Find 3 websites to inspire the design/layout/functionality of your app
 	1. Sketches for each page
-	1. Mockups for one page at two breakpoints
+	1. Mockups for 3 pages at two breakpoints
 	1. 3 Style Tiles
 	1. Build HTML/Sass
 	1. Ability to defend design decisions
