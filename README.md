@@ -1,7 +1,7 @@
-# September 24th Hackathon
+# April 7th Group Project
 
 ## Description
-No developer or designer works in a vacuum. We all need to collaborate with teammates in our day to day work. Working effectively in a team is not as easy as it sounds, but like everything else, it just takes some practice. Over the next four days you will form groups and build out a web application of your choice. This is an excellent opportunity to build out a great portfolio piece, become more comfortable with git branching and merging, and finally - pitch your ideas!
+No developer or designer works in a vacuum. We all need to collaborate with teammates in our day to day work. Working effectively in a team is not as easy as it sounds, but like everything else, it just takes some practice. Over the next four days you will work in groups to build **best of** a web application. This is an excellent opportunity to build out a great portfolio piece, become more comfortable with git branching and merging, and work in a team!
 
 
 ## Objectives
@@ -11,9 +11,8 @@ No developer or designer works in a vacuum. We all need to collaborate with team
 After completing this assignment, you should…
 
 * Increase your experience working in development/design teams
-* Practice pitching your ideas
 * Have a solid, tested, stable potential portfolio piece
-* Gain confidence having one repository for the group and using branching/merging
+* Gain confidence having together using branching/merging
 
 ### Performance Objectives
 
@@ -21,7 +20,6 @@ After completing this assignment, you be able to effectively use
 
 * Backbone Router, Models and Collections
 * Sass
-
 
 ## Details
 
@@ -62,18 +60,22 @@ After completing this assignment, you be able to effectively use
 
 
 ## Normal Mode
-To begin, one frontend member of your team should create a new repo using the `tiyfe` command and invite your other team members as and [invite all of your team members as collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/) so that they can push to the repo. The other frontend student and the design student should pull (don't fork) the newly created repository onto their computer and `cd` into the directory where the repo lives. Then run the `npm install` command (this could take a while to finish so I recommend that you do it as early as possible).
+To begin, one frontend member of your team should create a new repo using Jess's basic webpack setup. The frontender should [invite all of your team members as collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/) so that they can push to the repo. Other frontend and design students should pull (don't fork) the newly created repository onto their computer and `cd` into the directory where the repo lives. Then run the `npm install` command (this could take a while to finish so I recommend that you do it as early as possible).
 
 The backend student(s) will create an entitely separate repository.
 
 Hackathon Format:
-* 09:00 - 09:35 - Morning (individual class lecture)
-* 09:35 - 10:00 - Quick Agile Lecture.
-* 10:00 - 10:45 - Design Lecture​
-* 10:45 - 11:00 - Break
-* 11:00 - 11:45 - Advanced Git Lecture
-* 11:45 - 12:15 - Hackathon Requirements
-* 01:15 - 02:00 - Group pitches
+
+* Thursday - April 7th
+	* 1:30pm Project kick-off and requirements
+	* 2:15pm Meet with your group and answer designer questions
+	* 3:15pm Designers break off and start working, frontend / backend work on nightly assignment
+* Friday - April 8th
+	* 09:00am - 09:30am - Quick Agile Lecture
+	* 09:30am - 09:45am - Break
+	* 09:45am - 11:30am - Advanced Git Lecture
+	* 11:30am - 04:30pm - Break into groups and start working
+	* 04:30pm - 05:30pm - Week 6 celebration
             
 
 ## Notes
@@ -83,56 +85,43 @@ On Monday morning you will give a presentation of your app.
 ## Teams
 
 ```
-* FE: Troy
-* FE: Gladys
-* BE: Ryan P
-* BE: Michelle
+* FE: Dan
+* FE: Anna
+* BE: Vivek
+* D: Scott
 ```
 
 ```
-* FE: Leslie
-* FE: Josiah
-* BE: Mike
+* FE: Will
+* FE: Jen
+* BE: Dane
+* D: Janina
 ```
 
 ```
-* FE: Gabriel
-* FE: Michael D
-* BE: Chris
-```
-<!--* D: Emily?-->
-
-```
-* FE: Noel
-* FE: Michael A
-* BE: Travis
-* D: Jay
+* FE: Dana
+* BE: Jordan
+* BE: Brent
+* D: Jenna
 ```
 
 ```
-* FE: Jacob
-* FE: Jimi
-* BE: Anisha
-* D: Alex
+* FE: Martin
+* BE: Nagmeh
+* BE: Jared
+* D: Eric
 ```
 
 ```
-* FE: Whitney
-* FE: Bob
-* BE: Adam
-* D: Cory
+* FE: Nate
+* FE: Katy
+* BE: Collin
+* D: Amalie
 ```
 
 ```
-* FE: Mory
-* FE: Mike
-* BE: Ryan Y
-* D: Liz
-```
-
-```
-* FE: Aaron
-* FE: Joseph
-* BE: Erik
-* D: Ryan
+* FE: Haythem
+* FE: Josh
+* BE: Van
+* D: David
 ```
