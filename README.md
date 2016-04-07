@@ -41,10 +41,12 @@ After completing this assignment, you be able to effectively use
 	1. ** Your app must be submitted by 1am Monday morning ** so that you are ready to present by 9am Monday.
 * Design
 	1. Find 3 websites to inspire the design/layout/functionality of your app
-	1. Sketches for each page
-	1. Mockups for 3 pages at two breakpoints
+	1. Sketches for 3 pages 
+	1. Wireframes for 3 pages
 	1. 3 Style Tiles
-	1. Build HTML/Sass
+	1. Mockups in Illustrator for home page with 1 breakpoint (small and large screen sizes)
+	1. Build HTML/Sass (must be responsive, must have 2 breakpoints, must use a grid system)
+	1. Compatible on Chrome, Safari, and Firefox (download them if you haven’t already)
 	1. Ability to defend design decisions
 * Front-end
 	1. Backbone Router, Models and Collections
