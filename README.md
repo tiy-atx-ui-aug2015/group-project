@@ -52,14 +52,14 @@ After completing this assignment, you be able to effectively use
 * Rails
 	1. Multiple models
 	1. UML diagrams
-	1. Documenting the API with examples and response data
+	1. [A Documented API with examples and response data](https://bocoup.com/weblog/documenting-your-api)
 	1. Consistent JSON response
 	1. Appropriate status codes
-	1. Database and model level validations / associations
-	1. Controllers must be free of duplication
+	1. Database **and** model level validations
+	1. Controllers must have minimal duplication
 
 
-## Normal Mode
+## Explorer Mode
 To begin, one frontend member of your team should create a new repo using Jess's basic webpack setup. The frontender should [invite all of your team members as collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/) so that they can push to the repo. Other frontend and design students should pull (don't fork) the newly created repository onto their computer and `cd` into the directory where the repo lives. Then run the `npm install` command (this could take a while to finish so I recommend that you do it as early as possible).
 
 The backend student(s) will create an entitely separate repository.
