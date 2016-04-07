@@ -43,7 +43,7 @@ After completing this assignment, you be able to effectively use
 	1. Find 3 websites to inspire the design/layout/functionality of your app
 	1. Sketches for 3 pages 
 	1. Wireframes for 3 pages
-	1. 3 Style Tiles
+	1. 3 Style Tiles (in Illustrator)
 	1. Mockups in Illustrator for home page with 1 breakpoint (small and large screen sizes)
 	1. Build HTML/Sass (must be responsive, must have 2 breakpoints, must use a grid system)
 	1. Compatible on Chrome, Safari, and Firefox (download them if you haven’t already)
